@@ -1,4 +1,4 @@
-I'm a 19/y self-employed software engineer and designer, and a student in the last year of my BsC in Computer Science specializing in AI.
+I'm a 19/y self-employed software engineer and designer (currently working for [Data Intuitive](https://data-intuitive.com)), and a student in the last year of my BsC in Computer Science specializing in AI.
 
 I'm experienced in full-stack web applications using typescript and any web technology.
 I have about 5 years of design/animation under my belt.
