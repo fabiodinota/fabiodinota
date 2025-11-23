@@ -1,6 +1,11 @@
-### Hi there 👋
+I'm a 19/y self-employed software engineer and designer, and a student in the last year of my BsC in Computer Science specializing in AI.
 
-Im currently working on improving my skills as a Software Engineer, mainly focusing on front-end. Over the next few months I plan to learn three.js, R3F and blender to create amazing and smooth 3D Websites. I currently have extensive knowledge in [React & Next], [Typescript & Javascript], [Node.js, Express] and any CSS framework.
+I'm experienced in full-stack web applications using typescript and any web technology.
+I have about 5 years of design/animation under my belt.
+In school I'm currently learning/refining: Java, C#, .NET, C++, Data Science, Cisco Networking.
+
+My current language skillset is:
+JS, TS, JAVA, C#, C++, PHP, Python
 
 If you'd like to contact me: contact@fabiodinota.com
 
